@@ -1,12 +1,4 @@
-<h1>Hey there</h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<h3>Where to find me</h3>
-<br />
-<p>
-  <a href="https://www.linkedin.com/in/pradhan-adhyayan/">
-  <img align="left" alt="Adhyayan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
-</p>
+<h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
 
 <br />
 
@@ -46,4 +38,12 @@ Hi, I'm [Adhyayan Pradhan](#), a passionate full stack developer and software en
   <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
   <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+<h3>Connect with me - </h3>
+<br />
+<p>
+  <a href="https://www.linkedin.com/in/pradhan-adhyayan/">
+  <img align="left" alt="Adhyayan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
 </p>

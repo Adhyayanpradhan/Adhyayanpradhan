@@ -4,7 +4,7 @@
 
 Hi, I'm [Adhyayan Pradhan](#), a passionate full stack developer and software engineer from india. My passion for software lies with finding problems that can be solved with underlying business opportunities and growth. I believe in the research and development of a product following the atomic habit methodology with learning from the market and my fellow devleopers.
 
-  <img align="right" alt="GIF" src="https://github.com/Adhyayanpradhan/Adhyayanpradhan/blob/main/vid.gif?raw=true" width="500" height="320" style="border-style: solid 4 px white" />
+  <img align="right" alt="GIF" src="https://github.com/Adhyayanpradhan/Adhyayanpradhan/blob/main/vid.gif?raw=true" width="500" height="320" style="border: solid 4px white" />
 
 <h3>Things I code with</h3>
 <p>

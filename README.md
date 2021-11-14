@@ -5,6 +5,7 @@
 Hi, I'm [Adhyayan Pradhan](#), a passionate full stack developer and software engineer from india. My passion for software lies with finding problems that can be solved with underlying business opportunities and growth. I believe in the research and development of a product following the atomic habit methodology with learning from the market and fellow devlopers.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <hr />
 
 <h3>Things I code with</h3>
 <p>
@@ -40,6 +41,7 @@ Hi, I'm [Adhyayan Pradhan](#), a passionate full stack developer and software en
   <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
+<hr />
 <h3>Connect with me - </h3>
 <br />
 <p>

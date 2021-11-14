@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm [Adhyayan Pradhan](#), a passionate full stack developer and software engineer from india. My passion for software lies with finding problems that can be solved with underlying business opportunities and growth. I believe in the research and development of a product following the atomic habit methodology with learning from the market and fellow devlopers.
+Hi, I'm [Adhyayan Pradhan](#), a passionate full stack developer and software engineer from india. My passion for software lies with finding problems that can be solved with underlying business opportunities and growth. I believe in the research and development of a product following the atomic habit methodology with learning from the market and my fellow devleopers.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   <hr />
@@ -10,9 +10,9 @@ Hi, I'm [Adhyayan Pradhan](#), a passionate full stack developer and software en
 <h3>Things I code with</h3>
 <p>
 <strong>MERN</strong> - 
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
  <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="PostgreSql" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />

@@ -44,8 +44,14 @@ Hi, I'm [Adhyayan Pradhan](#), a passionate full stack developer and software en
 <hr />
 <h3>Connect with me - </h3>
 <br />
-<p>
-  <a href="https://www.linkedin.com/in/pradhan-adhyayan/">
+<div>
+  <p>Adhyayan Pradhan-</p>
+  <p><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> - pradhanadhyayan@gmail.com</p>
+  <p>
+    Linkedin - https://www.linkedin.com/in/pradhan-adhyayan/<span>
+    <a href="https://www.linkedin.com/in/pradhan-adhyayan/">
   <img align="left" alt="Adhyayan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
-</p>
+    </a>
+    </span>
+  </p>
+</div>

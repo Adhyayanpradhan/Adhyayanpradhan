@@ -50,7 +50,7 @@ Hi, I'm [Adhyayan Pradhan](#), a passionate full stack developer and software en
   <p>
     Linkedin - https://www.linkedin.com/in/pradhan-adhyayan/<span>
     <a href="https://www.linkedin.com/in/pradhan-adhyayan/">
-  <img align="left" alt="Adhyayan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+
     </a>
     </span>
   </p>

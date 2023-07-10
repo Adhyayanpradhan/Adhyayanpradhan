@@ -49,9 +49,7 @@ Hi, I'm [Adhyayan Pradhan](#), a passionate full stack developer and software en
   <p><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> - pradhanadhyayan@gmail.com</p>
   <p>
     Linkedin - https://www.linkedin.com/in/pradhan-adhyayan/<span>
-    <a href="https://www.linkedin.com/in/pradhan-adhyayan/">
-
-    </a>
+    <a href="https://www.linkedin.com/in/pradhan-adhyayan/" />
     </span>
   </p>
 </div>
